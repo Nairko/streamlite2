@@ -1,5 +1,3 @@
 pandas
 numpy
-matplotlib.pyplot
-matplotlib.offsetbox
-matplotlib.image
+matplotlib
