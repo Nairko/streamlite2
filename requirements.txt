@@ -1,0 +1,6 @@
+pandas
+numpy
+nplsoccer
+matplotlib.pyplot
+matplotlib.offsetbox
+matplotlib.image
